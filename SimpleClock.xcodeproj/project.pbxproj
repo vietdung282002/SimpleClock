@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B838F9F2CD2456800321BBD /* Simulator Screen Recording - iPhone 12 - 2024-10-30 at 17.31.43.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8B838F9E2CD2456800321BBD /* Simulator Screen Recording - iPhone 12 - 2024-10-30 at 17.31.43.gif */; };
 		8BB263C42CD097D700562173 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB263C32CD097D700562173 /* AppDelegate.swift */; };
 		8BB263C62CD097D700562173 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB263C52CD097D700562173 /* SceneDelegate.swift */; };
 		8BB263C82CD097D700562173 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB263C72CD097D700562173 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8B838F9E2CD2456800321BBD /* Simulator Screen Recording - iPhone 12 - 2024-10-30 at 17.31.43.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "Simulator Screen Recording - iPhone 12 - 2024-10-30 at 17.31.43.gif"; path = "../../../../../../../Users/tongvietdung/Desktop/Simulator Screen Recording - iPhone 12 - 2024-10-30 at 17.31.43.gif"; sourceTree = "<group>"; };
 		8BB263C02CD097D700562173 /* SimpleClock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleClock.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BB263C32CD097D700562173 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8BB263C52CD097D700562173 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -37,9 +39,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8B838F9D2CD2454500321BBD /* screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				8B838F9E2CD2456800321BBD /* Simulator Screen Recording - iPhone 12 - 2024-10-30 at 17.31.43.gif */,
+			);
+			path = screenshots;
+			sourceTree = "<group>";
+		};
 		8BB263B72CD097D600562173 = {
 			isa = PBXGroup;
 			children = (
+				8B838F9D2CD2454500321BBD /* screenshots */,
 				8BB263C22CD097D700562173 /* SimpleClock */,
 				8BB263C12CD097D700562173 /* Products */,
 			);
@@ -126,6 +137,7 @@
 			files = (
 				8BB263D02CD097D800562173 /* LaunchScreen.storyboard in Resources */,
 				8BB263CD2CD097D800562173 /* Assets.xcassets in Resources */,
+				8B838F9F2CD2456800321BBD /* Simulator Screen Recording - iPhone 12 - 2024-10-30 at 17.31.43.gif in Resources */,
 				8BB263CB2CD097D700562173 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
