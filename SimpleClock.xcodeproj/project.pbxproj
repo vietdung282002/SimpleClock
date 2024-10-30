@@ -50,7 +50,6 @@
 		8BB263B72CD097D600562173 = {
 			isa = PBXGroup;
 			children = (
-				8B838F9D2CD2454500321BBD /* screenshots */,
 				8BB263C22CD097D700562173 /* SimpleClock */,
 				8BB263C12CD097D700562173 /* Products */,
 			);
@@ -67,6 +66,7 @@
 		8BB263C22CD097D700562173 /* SimpleClock */ = {
 			isa = PBXGroup;
 			children = (
+				8B838F9D2CD2454500321BBD /* screenshots */,
 				8BB263C32CD097D700562173 /* AppDelegate.swift */,
 				8BB263C52CD097D700562173 /* SceneDelegate.swift */,
 				8BB263C72CD097D700562173 /* ViewController.swift */,
